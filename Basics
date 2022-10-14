@@ -1,16 +1,1 @@
-Keywords in Python
-
-DOs & DOnts while defining a variable
-
-Multi-line Statements:
-  "x = 1 + 2 \
-      +3 \
-      +4"
-      
-  "x = (1 + 2 
-        +3 
-        +4)"
-
-#single line comment
-'''Multi line comment'''
-
+print("Hello Git")
